@@ -18,7 +18,7 @@ The app provides the following services:
 
 - Searching for any pokemon by inserting its name in the pretty, effective search box and getting your results in such a short time.
 
-## App Structure
+# App Structure
 
 The app doesn't use a frontend framework such as React; instead, it uses HTML, CSS, Material, and javascript to build the frontend side. As for the backend, it uses Nodejs and express. The connection between the frontend and backend is done through REST APIs and EJS.
 
